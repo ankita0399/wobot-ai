@@ -1,3 +1,9 @@
+# This Project is designed using Figma 
+Link to UI design Figma https://www.figma.com/file/ll9sfd7W99e1GDdlzwn9mX/Assignment?node-id=0%3A1
+
+# Designed using ReactJs
+This project is designed in ReactJS (Responsive Website).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
