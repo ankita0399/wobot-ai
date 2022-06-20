@@ -4,7 +4,6 @@ Link to UI design Figma https://www.figma.com/file/ll9sfd7W99e1GDdlzwn9mX/Assign
 # Designed using ReactJs
 This project is designed in ReactJS (Responsive Website).
 
-# Designed using ReactJS
 ![image](https://user-images.githubusercontent.com/61374457/174648895-fb6ac053-9e3d-4852-bfb1-6e8d7fc31679.png)
 
 # Getting Started with Create React App
